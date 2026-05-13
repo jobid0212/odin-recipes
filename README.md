@@ -1,1 +1,4 @@
-write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+# odin-recipes
+This project contains the recipes for 3 separate dishes.
+
+This project was created to practice and demonstrate my skills in html, including my abilities with `img`, `a`, `ul`, and `ol` elements. Relative paths were used to link pages together, while Absolute paths were used to display images for each of the recipes.
